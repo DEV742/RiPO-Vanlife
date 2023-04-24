@@ -9,7 +9,7 @@ Mediapipe
 venv
 
 Installation: 
- > cd into the project dir
- > python -m venv ./venv
- > ./venv/Scripts/activate OR ./venv/bin/activate (on UNIX)
- > pip install -r requirements.txt
+ > cd into the project dir \n
+ > python -m venv ./venv \n
+ > ./venv/Scripts/activate OR ./venv/bin/activate (on UNIX) \n
+ > pip install -r requirements.txt \n
